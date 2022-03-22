@@ -4,7 +4,7 @@
 When you see people smiling, you know they’re happy. When they’re crying, you know they’re sad. Across cultures, recognizable facial expressions and certain reactions have become associated with the basic emotions. You pick up on these visual cues from person to person, but do you know what goes into them? Below, we explore the theories of basic emotions.
 
 ## 1. The Six Basic Emotions
-A widely accepted theory of basic emotions and their expressions, developed **Paul Ekman**, suggests we have six basic emotions. They include happiness, sadness, fear, anger, surprise and disgust.
+A widely accepted theory of basic emotions and their expressions, developed by **Paul Ekman**, suggests we have six basic emotions. They include happiness, sadness, fear, anger, surprise and disgust.
 ### 1.1 Happiness
 A pleasant emotional state that elicits feelings of joy, contentment and satisfaction
 
