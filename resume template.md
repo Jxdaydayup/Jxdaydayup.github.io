@@ -10,7 +10,7 @@ http://www.linkedin.com/in/yourname
 
 Quick Summary (not objective) specifically highlighting why you qualify for the job.
 
-# Education (only last 10 years)
+# Work experience (only last 10 years)
 
 ## University Name 1 (City, State)
 
