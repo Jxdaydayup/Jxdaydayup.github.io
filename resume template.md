@@ -1,4 +1,3 @@
-# Jxdaydayup.github.io
 # Your Name
 
 your.name@example.com
