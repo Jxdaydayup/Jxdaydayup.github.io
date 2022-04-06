@@ -1,8 +1,6 @@
-# Enter Your Name
+# Your Name
 
 your.name@example.com
-
-http://www.example.com
 
 http://www.linkedin.com/in/yourname
 
